@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="Zahid's Github Stats" src="https://guthib-readme-stats.vercel.app/api?username=ZahidMKhan&show_icons=true&hide_border=true" />
+<img align="left" alt="Zahid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZahidMKhan&show_icons=true&hide_border=true" />
 
 
 [website]: https://codeSTACKr.com
