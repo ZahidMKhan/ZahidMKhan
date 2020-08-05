@@ -16,8 +16,8 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="center" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_large.png" />][selenium]
-[<img align="center" alt="Apache Maven" width="26px" src="https://maven.apache.org/images/maven-logo-black-on-white.png" />][maven]
+[<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_large.png" />][selenium]
+[<img align="left" alt="Apache Maven" width="26px" src="https://maven.apache.org/images/maven-logo-black-on-white.png" />][maven]
 [<img align="left" alt="Jenkins" width="26px" src="https://www.jenkins.io/images/logos/actor/256.png" />][jenkins]
 [<img align="left" alt="Postman" width="26px" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" />][postman]
 [<img align="left" alt="REST Assured" width="26px" src="http://rest-assured.io/img/logo-transparent.png" />][restassured]
@@ -45,7 +45,7 @@
 [restassured]: http://rest-assured.io/
 [graphql]: https://graphql.org/
 [mysql]: https://www.mysql.com/
-[sql]: 
+[sql]: https://www.mysql.com
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [docker]: https://www.docker.com/
