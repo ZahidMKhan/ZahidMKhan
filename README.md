@@ -3,7 +3,7 @@
 ## I'm a Software Development Engineer in Test!
 - 🔭 I’m currently exploring GraphQL!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Make it out alive!
+- 🥅 2021 Goals: Make it better than 2020!
 - ⚡ Fun fact: I love to travel and photograph literally everything
 
 ### Connect with me:
