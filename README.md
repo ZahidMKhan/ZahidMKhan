@@ -19,7 +19,7 @@
 [<img align="left" alt="Apache Maven" width="26px" src="https://maven.apache.org/images/maven-logo-black-on-white.png" />][maven]
 [<img align="left" alt="Kubernetes" width="26px" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" />][kubernetes]
 [<img align="left" alt="Jenkins" width="26px" src="https://www.jenkins.io/images/logos/actor/256.png" />][jenkins]
-[<img align="left" alt="Postman" width="26px" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" />][postman]
+[<img align="left" alt="Postman" width="52px" src="https://raw.githubusercontent.com/postmanlabs/postmanlabs.github.io/develop/global-artefacts/postman-logo%2Btext-320x132.png" />][postman]
 [<img align="left" alt="REST Assured" width="26px" src="http://rest-assured.io/img/logo-transparent.png" />][restassured]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphql]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
