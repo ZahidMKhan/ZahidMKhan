@@ -1,7 +1,7 @@
 ### Hi there, I'm Zahid 👋
 
 ## I'm a Software Development Engineer in Test!
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning JavaScript and WebdriverIO
 - 🥅 2022 Goals: Make it exciting!
 - ⚡ Fun fact: I love to travel and photograph literally everything
 
