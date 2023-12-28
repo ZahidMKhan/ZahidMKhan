@@ -2,7 +2,7 @@
 
 ## I'm a Software Development Engineer in Test!
 - 🌱 I’m currently exploring the world of C# and the test frameworks in there
-- 🥅 2023 Goals: Travel the world and survive C#!
+- 🥅 2024 Goals: Automate more!
 - ⚡ Fun fact: I love to travel and photograph (almost) everything
 
 ### Connect with me:
