@@ -35,6 +35,19 @@
 
 <img align="left" alt="Zahid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZahidMKhan&count_private=true&show_icons=true&theme=radical&hide_border=true" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=ZahidMKhan&color=blue&label=PROFILE+VIEWS)
+
 
 [website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/the.last.alphabet
